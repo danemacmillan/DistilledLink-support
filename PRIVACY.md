@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="96"></a>
+</p>
+
 # Privacy Policy
 
 <sub>Last updated: September 30, 2026</sub>
@@ -29,10 +33,6 @@ DistilledLink is developed by Dane MacMillan. For privacy questions or to reques
 Support requests posted in the [public GitHub repository](/../../issues) are publicly visible and subject to [GitHub’s Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ---
-
-<p align="center">
-  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="48"></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/danemacmillan/DistilledLink-support">Home</a> ·

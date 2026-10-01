@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="96"></a>
+</p>
+
 # Support
 
 > [!IMPORTANT]
@@ -15,10 +19,6 @@ DistilledLink is my first iOS app. After 18 years of web development experience,
 I deliberately chose iOS 26 as the minimum supported version to keep development and testing manageable while focusing on modern platform capabilities and the app’s future development.
 
 ---
-
-<p align="center">
-  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="48"></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/danemacmillan/DistilledLink-support">Home</a> ·

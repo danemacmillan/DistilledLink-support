@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="96"></a>
+</p>
+
 # Terms of Use
 
 DistilledLink is licensed under [Apple’s Standard End-User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
@@ -11,10 +15,6 @@ Only share files you have permission to distribute. Anyone with a generated down
 File hosting and synchronization use Apple’s services and are subject to [Apple’s iCloud Terms and Conditions](https://www.apple.com/legal/internet-services/icloud/en/terms.html).
 
 ---
-
-<p align="center">
-  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="48"></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/danemacmillan/DistilledLink-support">Home</a> ·
