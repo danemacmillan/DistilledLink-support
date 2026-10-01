@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <a href="README.md">Home</a> ·
+  <a href="/">Home</a> ·
   <a href="PRIVACY.md">Privacy Policy</a> ·
   <a href="TERMS.md">Terms of Use</a> ·
   <a href="SUPPORT.md">Support</a>
