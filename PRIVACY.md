@@ -31,11 +31,11 @@ Support requests posted in the [public GitHub repository](/../../issues) are pub
 ---
 
 <p align="center">
-  <a href="/"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="48"></a>
+  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="48"></a>
 </p>
 
 <p align="center">
-  <a href="/">Home</a> ·
+  <a href="https://github.com/danemacmillan/DistilledLink-support">Home</a> ·
   <a href="PRIVACY.md">Privacy Policy</a> ·
   <a href="TERMS.md">Terms of Use</a> ·
   <a href="SUPPORT.md">Support</a>
