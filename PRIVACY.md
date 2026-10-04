@@ -28,7 +28,7 @@ This policy may be updated as the app evolves. Updates will be posted here with 
 
 ## Contact and support
 
-DistilledLink is developed by Dane MacMillan. For privacy questions or to request deletion of support correspondence, email [distilledlink@danemacmillan.com](mailto:distilledlink@danemacmillan.com). Your email address and message are used only to handle your request and kept only as long as needed to resolve it.
+DistilledLink is developed by Dane MacMillan. For privacy questions or to request deletion of support correspondence, email [distilledlink@icloud.com](mailto:distilledlink@icloud.com). Your email address and message are used only to handle your request and kept only as long as needed to resolve it.
 
 Support requests posted in the [public GitHub repository](/../../issues) are publicly visible and subject to [GitHub’s Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 

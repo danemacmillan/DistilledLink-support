@@ -10,7 +10,7 @@
 For help with DistilledLink:
 
 - [Report a bug or suggest a feature](/../../issues).
-- Email the developer at [distilledlink@danemacmillan.com](mailto:distilledlink@danemacmillan.com).
+- Email the developer at [distilledlink@icloud.com](mailto:distilledlink@icloud.com).
 
 ## Development notes
 
