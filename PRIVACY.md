@@ -4,7 +4,7 @@
 
 # Privacy Policy
 
-<sub>Last updated: October 6, 2026</sub>
+<sub>Last updated: October 13, 2026</sub>
 
 Privacy is central to DistilledLink’s design. The app uses only Apple’s services for file hosting and synchronization. The developer operates no servers for the app and does not collect or host your files. The app contains no advertising, tracking, or analytics code.
 
@@ -18,9 +18,15 @@ Apple handles this data under its [Privacy Policy](https://www.apple.com/legal/p
 
 ## Diagnostics
 
-Diagnostic reports stay on your device unless you choose to share them. They include technical activity, app and OS versions, settings, purchase-access status, file extensions, broad size ranges, link share dates, and temporary troubleshooting references. They exclude filenames, file contents, download links, account details, and persistent device identifiers. Review reports before sharing.
+Diagnostic reports stay on your device and are never automatically sent to the developer. You decide whether to email or share a report for support.
 
-iCloud synchronization sends temporary troubleshooting references to Apple’s CloudKit service. The developer can view [Apple’s CloudKit service logs](https://developer.apple.com/icloud/logs/) containing timing, errors, and app-specific user references. These references help match a report you share with related synchronization activity. The logs do not reveal your files or the contents of your private iCloud database.
+Reports include technical activity, app and OS versions, settings, purchase-access status, file extensions, broad size ranges, link share dates, and temporary troubleshooting references. They exclude filenames, file contents, download links, account details, and persistent device identifiers. Review reports before sharing.
+
+iCloud sync automatically sends a random session reference to Apple’s CloudKit service. This reference changes each time the app launches and contains no name or email address. The developer can view [Apple’s CloudKit service logs](https://developer.apple.com/icloud/logs/), which show technical activity, such as timing and errors, and identifiers specific to your account within this app’s iCloud container. These logs alone do not reveal your name or email address to the developer, or provide access to your files or private iCloud database contents.
+
+If you choose to share a diagnostic report, its session reference lets the developer find the matching CloudKit activity. Sending the report by email includes your sender address, which connects that activity to your support email. Without information you choose to share, the logs and references alone do not tell the developer who you are. Shared reports and related logs are used only for troubleshooting and support.
+
+These account references and the connection to support emails explain why diagnostics may be described as “linked to you” in [the App Store’s privacy information](https://developer.apple.com/app-store/app-privacy-details/#data-linked-to-the-user). The app does not automatically collect your name or email address or use this information for advertising or tracking.
 
 ## Retention and control
 
