@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light.png" alt="DistilledLink home" width="96"></a>
+  <a href="https://github.com/danemacmillan/DistilledLink-support"><img src="assets/DistilledLink-Light-v2.png" alt="DistilledLink home" width="96"></a>
 </p>
 
 # Terms of Use

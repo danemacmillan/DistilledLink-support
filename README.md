@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/DistilledLink-Light.png" alt="DistilledLink app icon in light mode" width="192">
+  <img src="assets/DistilledLink-Light-v2.png" alt="DistilledLink app icon in light mode" width="192">
 </p>
 
 <h1 align="center">DistilledLink</h1>
